@@ -1,0 +1,47 @@
+# 1.Variables can only store values of numeric data types.1 / 1 point
+
+True
+
+False
+
+# Correct
+Variables can store values of any data type.
+
+# 2.What are best practices when assigning a new variable? Select all that apply. 1 / 1 point
+
+Determine the variable’s keyword
+
+Determine the variable’s name 
+
+Determine the variable’s data type
+
+Determine the variable’s starting value
+
+# Correct
+Best practices when assigning a new variable include determining the variable’s name, data type, and starting value. 
+
+# 3.Fill in the blank: An _____ is a combination of numbers, symbols, or other variables that produce a result when evaluated. 1 / 1 point
+
+attribute
+
+argument
+
+object
+
+expression
+
+# Correct
+An expression is a combination of numbers, symbols, or other variables that produce a result when evaluated. 
+
+# 4.Which data type represents numbers that contain decimals? 1 / 1 point
+
+Integer
+
+Boolean
+
+String
+
+Float
+
+# Correct
+The float data type represents numbers that contain decimals.
